@@ -11,7 +11,8 @@ A software tool to segment images of objects(sample: lemons.jpg) and count the n
 
 ## Requirements:
 **Use Google Collab to run the Code:**
-Google Collab makes it easy to run various libraries in your code without the need for installing each of them separately *
-
+```diff
+Google Collab makes it easy to run various libraries in your code without the need for installing each of them separately
+```
 ## Results
 ![Results](https://i.ibb.co/d5YSdpv/Output.jpg)
